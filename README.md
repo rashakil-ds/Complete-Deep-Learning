@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-  <h1>60 Days of Deep Learning</h1>
+  <h1>Complete Deep Learning</h1>
   <p>Welcome to the <strong>60 Days of Deep Learning</strong> repository! This repository contains 60 video materials ranging from basic to advanced deep learning concepts, curated by Study Mart and aiQuest Intelligence.</p>
 
   <h2>Course Name</h2>
