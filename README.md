@@ -2,7 +2,7 @@
 <html>
 <body>
   <h1>Complete Deep Learning</h1>
-  <p>Welcome to the <strong>Complete Deep Learning</strong> repository! This repository contains 60 video materials ranging from basic to advanced deep learning concepts, curated by Study Mart and aiQuest Intelligence.</p>
+  <p>Welcome to the <strong>Complete Deep Learning</strong> repository! This repository contains video materials ranging from basic to advanced deep learning concepts, curated by Study Mart and aiQuest Intelligence.</p>
 
   <h2>Course Name</h2>
   <p><strong>Complete Deep Learning</strong></p>
