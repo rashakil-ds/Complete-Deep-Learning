@@ -20,7 +20,7 @@
   </ul>
 
   <h2>YouTube Video Playlist</h2>
-  <p>Watch the complete video playlist on YouTube: <a href="https://www.youtube.com/playlist?list=PLKdU0fuY4OFdFUCFcUp-7VD4bLXr50hgb" target="_blank">60 Days of Deep Learning Playlist</a></p>
+  <p>Watch the complete video playlist on YouTube: <a href="https://www.youtube.com/playlist?list=PLKdU0fuY4OFdFUCFcUp-7VD4bLXr50hgb" target="_blank">Complete Deep Learning Playlist</a></p>
 
   <h2>Repository Link</h2>
   <p>Check out the collection of video materials <a href="https://github.com/rashakil-ds/60-Days-of-Deep-Learning" target="_blank">here</a>.</p>
