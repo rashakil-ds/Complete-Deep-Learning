@@ -5,7 +5,7 @@
   <p>Welcome to the <strong>Complete Deep Learning</strong> repository! This repository contains video materials ranging from basic to advanced deep learning concepts, curated by Study Mart and aiQuest Intelligence.</p>
 
   <h2>Course Name</h2>
-  <p><strong>Complete Deep Learning</strong></p>
+  <p><strong>Complete Deep Learning with Python</strong></p>
 
   <h2>Topics Covered</h2>
   <ul>
